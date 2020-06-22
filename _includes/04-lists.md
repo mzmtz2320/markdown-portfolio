@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite
+* Color: Purple
+* Brand: Gucci
+* Food: Fruit
